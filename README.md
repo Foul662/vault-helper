@@ -1,2 +1,2 @@
-# vault-helper
-this module can help u with find ominouses vault and auto click it
+My idea, implemented by lol9i
+
